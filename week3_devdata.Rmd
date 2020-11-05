@@ -1,0 +1,27 @@
+---
+title: "week 3 developing data"
+author: "Nikhitha
+date: "/11/2020"
+output: html_document
+---
+
+```{r}
+library(plotly)
+data(m_c)
+head(m_c)
+```
+```{r}
+plot_ly(m_c) %>%
+    add_trace(x = ~mpg, y = ~cyl, type="scatter", mode = "markers",name = "cylinder", legendgroup = "cylinder", 
+              marker = list(color = "#52A9BD")) %>%
+    add_trace(x = ~mpg, y = ~gear, type="scatter", mode = "markers",
+              name = "gear", legendgroup = "gear", 
+              marker = list(color = "#FFF16B")) %>%
+    add_trace(x = ~mpg, y = ~carb, type="scatter", mode = "markers",
+              name = "carb", legendgroup = "carb", 
+              marker = list(color = "#F5677D")) 
+```
+absgyusd vysdgvfushv  bjhugvkdjvh bdfkuvh,ksdmj byfugvfhvn vyugvdrjgv vujsvgjrhbvd asujcjfbhvjac bivucjc dbcvaujhjrkcnm dbgvsdfjvm
+vbruiqvjn bfvjmrvntrkjgmtgniotkgmtr bntgikbjtnbyitkhjm btuiwgjktgntiobktjbhtoigjkmw thiknyhbrynhiokryjmhfdjynkjgfbwnjkm
+bcuh busgjh bvaujfmn bavujvmbd r av8usjchuj fgwfuejfuhnwem vuvjhtrnwmvujesgj, busvjam vvbisdkvnz  sbjkmzn bwviskuzjn vgujnefjsvk, nejkghwetnigj gqwerhign tgvrtjgtwiugtjnm vuiewrgnqkm gbujhrng qbujbrfvh vjgmsergktle;l;oifhwuifoe-rqof9345ty8u23i9 qfbg ujh olg\r
+qkgjhrufiopgtogheroeegrwalajhsfluisrfy xhnluifghrjmjvnruifn vhruiajenm rrmiejeuijml
